@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: dxd7-deluge-pia
+category: networking
+name: Deluge PIA
+version: "1.0.0"
+tagline: Deluge torrent client routed through PIA WireGuard (binhex)
+icon: https://raw.githubusercontent.com/dxD7/delugePIA/main/dxd7-deluge-pia/icon.svg
+description: >-
+  Deluge torrent client bundled with a VPN (Private Internet Access via
+  WireGuard) and Privoxy, using the binhex/arch-delugevpn image.
+
+
+  Before first launch, edit your VPN credentials in the app's
+  docker-compose.yml on your Umbrel.
+developer: binhex
+website: https://github.com/binhex/arch-delugevpn
+dependencies: []
+repo: https://github.com/dxD7/delugePIA
+support: https://github.com/binhex/arch-delugevpn/issues
+port: 8112
+gallery: []
+path: ""
+defaultPassword: "deluge"
+releaseNotes: ""
+submitter: dxD7
+submission: https://github.com/dxD7/delugePIA
