@@ -15,7 +15,7 @@ description: >-
 developer: binhex
 website: https://github.com/binhex/arch-delugevpn
 dependencies: []
-repo: https://github.com/dxD7/delugePIA
+repo: https://github.com/dxD7/Umbrel-delugePIA
 support: https://github.com/binhex/arch-delugevpn/issues
 port: 8112
 gallery: []
