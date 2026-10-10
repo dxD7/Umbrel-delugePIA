@@ -4,7 +4,7 @@ category: networking
 name: Deluge PIA
 version: "1.0.0"
 tagline: Deluge torrent client routed through PIA WireGuard (binhex)
-icon: https://raw.githubusercontent.com/dxD7/delugePIA/main/dxd7-deluge-pia/icon.png
+icon: https://raw.githubusercontent.com/dxD7/Umbrel-delugePIA/refs/heads/main/dxd7-deluge-pia/icon.png
 description: >-
   Deluge torrent client bundled with a VPN (Private Internet Access via
   WireGuard) and Privoxy, using the binhex/arch-delugevpn image.
