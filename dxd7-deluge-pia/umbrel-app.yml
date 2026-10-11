@@ -10,8 +10,7 @@ description: >-
 WireGuard) and Privoxy, using the binhex/arch-delugevpn image.
 
 After installation, edit the app's docker-compose.yml file on your Umbrel
-to add your PIA VPN credentials, then restart the app. The app will not
-connect to the VPN until the credentials are configured correctly.
+to add your PIA VPN credentials, then restart the app.
 developer: binhex
 website: https://github.com/binhex/arch-delugevpn
 dependencies: []
